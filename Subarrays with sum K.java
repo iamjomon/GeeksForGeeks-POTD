@@ -9,7 +9,6 @@ class Solution {
             count += prefixSumCount.getOrDefault(sum - k, 0);
             prefixSumCount.put(sum, prefixSumCount.getOrDefault(sum, 0) + 1);
         }
-
         return count;
     }
 }

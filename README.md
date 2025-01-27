@@ -4,7 +4,7 @@ This repository contains solutions to problems from [GeeksforGeeks](https://www.
 
 ## Key Features
 - **Solutions Only**: This repository focuses on providing direct solutions without explanations.
-- **File Naming**: Files are named using the **Month & Date of the POTD**, e.g., `january22.java` for the "january 22nd" problem. And the **Topic** is metioned in the **commit message**
+- **File Naming**: Files are named using the **Month & Date of the POTD**, e.g., `january22.java` for the "january 22nd" problem. And the **Topic** is metioned in the **commit message**.
 - **Multiple Languages**: Solutions are primarily in **Java**, with potential use of other languages.
 
 

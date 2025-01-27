@@ -18,7 +18,7 @@ This repository contains solutions to problems from [GeeksforGeeks](https://www.
 |----------------|------------|----------|---------------------------------------|---------------------------------------|
 |  LRU Cache   | 27-01-2025 | Java     |  [Solution](./january27.java)                 | [Problem](https://www.geeksforgeeks.org/problems/lru-cache/1)           |
 |  Remove loop in Linked List     | 26-01-2025 | Java     |  [Solution](./january26.java)                 | [Problem](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)           |
-|            | 25-01-2025 | Java     |  [Solution](./january25.java)                 | [Problem](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1)           |
+|    Find the first node of loop in linked list        | 25-01-2025 | Java     |  [Solution](./january25.java)                 | [Problem](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1)           |
 |    Detect Loop in linked list        | 24-01-2025 | Java     | [Solution](./january24.java)                | [problem](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)            |
 |    Clone List with Next and Random          | 23-01-2025 | Java     | [Solution](./january23.java)                  |[problem](https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)                 |
 |    Add Number Linked Lists        | 22-01-2025 | Java     |  [Solution](./january22.java)                 | [problem](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)               |

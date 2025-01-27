@@ -1,6 +1,6 @@
 # GeeksforGeeks Problem of The day
 
-This repository contains solutions to problems from [GeeksforGeeks](https://www.geeksforgeeks.org/). The files are named using the **question name** for easy identification and organization.
+This repository contains solutions to problems from ***[GeeksforGeeks](https://www.geeksforgeeks.org/)***. The files are named using the **question name** for easy identification and organization.
 
 ## Key Features
 - **Solutions Only**: This repository focuses on providing direct solutions without explanations.

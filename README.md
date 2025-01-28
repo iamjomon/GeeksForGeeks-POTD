@@ -16,7 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Question Name | Date       | Language | Solution Link                         | Problem Link                          |
 |----------------|------------|----------|---------------------------------------|---------------------------------------|
-|  Permutations of a String | 28-01-2025 | C++     |  [Solution](./january28.java)                 | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
+|  Permutations of a String | 28-01-2025 | C++     |  [Solution](./january28.cpp)                 | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
 |  LRU Cache   | 27-01-2025 | Java     |  [Solution](./january27.java)                 | [Problem](https://www.geeksforgeeks.org/problems/lru-cache/1)           |
 |  Remove loop in Linked List     | 26-01-2025 | Java     |  [Solution](./january26.java)                 | [Problem](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)           |
 |    Find the first node of loop in linked list        | 25-01-2025 | Java     |  [Solution](./january25.java)                 | [Problem](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1)           |

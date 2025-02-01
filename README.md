@@ -19,7 +19,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 | Word Search | 01-02-2025 | Java    |  [Solution](./february1.java)                 | [Problem](https://www.geeksforgeeks.org/problems/word-search/1) |
 |  N-Queen Problem| 30-01-2025 | Java    |  [Solution](./january30.java)                 | [Problem](https://www.geeksforgeeks.org/problems/n-queen-problem0315/1) |
 |  Implement Pow| 29-01-2025 | Java    |  [Solution](./january29.java)                 | [Problem](https://www.geeksforgeeks.org/problems/powx-n/1) |
-|  Permutations of a String | 28-01-2025 | java & C++ |  [Solution in Java](./january28.java) <br> [Solution in C++](./january28.cpp)                | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) |
+|  Permutations of a String | 28-01-2025 | java & C++ |  [Java Solution](./january28.java) <br> [C++ Solution](./january28.cpp)                | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) |
 |  LRU Cache   | 27-01-2025 | Java     |  [Solution](./january27.java)                 | [Problem](https://www.geeksforgeeks.org/problems/lru-cache/1)           |
 |  Remove loop in Linked List     | 26-01-2025 | Java     |  [Solution](./january26.java)                 | [Problem](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)           |
 |    Find the first node of loop in linked list        | 25-01-2025 | Java     |  [Solution](./january25.java)                 | [Problem](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1)           |

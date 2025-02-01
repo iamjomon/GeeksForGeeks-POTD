@@ -16,7 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Question Name | Date       | Language | Solution Link                         | Problem Link                          |
 |----------------|------------|----------|---------------------------------------|---------------------------------------|
-| Solve the Sudoku | 31-01-2025 | Java    |  [Solution](./january31.java)                 | [Problem](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/11) |
+| Word Search | 01-02-2025 | Java    |  [Solution](./february1.java)                 | [Problem](https://www.geeksforgeeks.org/problems/word-search/1) |
 |  N-Queen Problem| 30-01-2025 | Java    |  [Solution](./january30.java)                 | [Problem](https://www.geeksforgeeks.org/problems/n-queen-problem0315/1) |
 |  Implement Pow| 29-01-2025 | Java    |  [Solution](./january29.java)                 | [Problem](https://www.geeksforgeeks.org/problems/powx-n/1) |
 |  Permutations of a String | 28-01-2025 | C++     |  [Solution](./january28.cpp)                 | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) |

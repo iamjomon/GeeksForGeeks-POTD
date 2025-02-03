@@ -16,7 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Question Name | Date       | Language | Solution Link                         | Problem Link                          |
 |----------------|------------|----------|---------------------------------------|---------------------------------------|
-| Height of Binary Tree | 03-02-2025 | Java    |  [Solution](./february3.java)                 | [Problem](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) |
+| Height of Binary Tree | 03-02-2025 | Java & C++  |  [Java Solution](./february3.java)<br>  [C++ Solution](./february3.cpp)   | [Problem](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) |
 | Level order traversal | 02-02-2025 | Java    |  [Solution](./february2.java)                 | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal/1) |
 | Word Search | 01-02-2025 | Java    |  [Solution](./february1.java)                 | [Problem](https://www.geeksforgeeks.org/problems/word-search/1) |
 |  N-Queen Problem| 30-01-2025 | Java    |  [Solution](./january30.java)                 | [Problem](https://www.geeksforgeeks.org/problems/n-queen-problem0315/1) |

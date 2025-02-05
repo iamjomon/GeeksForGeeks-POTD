@@ -16,7 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------| 
-| 05-02-2025 | Mirror Tree                                                | Java & C++ | [Solution](./february5.java) | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) |
+| 05-02-2025 | Mirror Tree                                                | Java & C++ | [Java Solution](./february5.java) <br> [C++ Solution](./february5.cpp) | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) |
 | 04-02-2025 | Diameter of a Binary Tree                                  | Java       | [Solution](./february4.java) | [Problem](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) |
 | 03-02-2025 | Height of Binary Tree                                      | Java & C++ | [Java Solution](./february3.java) <br> [C++ Solution](./february3.cpp) | [Problem](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) |
 | 02-02-2025 | Level order traversal                                      | Java       | [Solution](./february2.java) | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal/1) |

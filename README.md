@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------| 
+| 06-02-2025 | Construct Tree from Inorder & Preorder                     | Java       | [Solution](./february6.java) | [Problem](https://www.geeksforgeeks.org/problems/construct-tree-1/1) |
 | 05-02-2025 | Mirror Tree                                                | Java & C++ | [Java Solution](./february5.java) <br> [C++ Solution](./february5.cpp) | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) |
 | 04-02-2025 | Diameter of a Binary Tree                                  | Java       | [Solution](./february4.java) | [Problem](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) |
 | 03-02-2025 | Height of Binary Tree                                      | Java & C++ | [Java Solution](./february3.java) <br> [C++ Solution](./february3.cpp) | [Problem](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) |

@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------| 
+| 08-02-2025 | Tree Boundary Traversal                               | Java | [Solution](./february8.java) | [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |
 | 07-02-2025 | Inorder Traversal                                     | Java | [Solution](./february7.java) | [Problem](https://www.geeksforgeeks.org/problems/inorder-traversal/1) |
 | 06-02-2025 | Construct Tree from Inorder & Preorder                | Java | [Solution](./february6.java) | [Problem](https://www.geeksforgeeks.org/problems/construct-tree-1/1) |
 | 05-02-2025 | Mirror Tree                                           | Java & C++ | [Java Solution](./february5.java) <br> [C++ Solution](./february5.cpp) | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) |

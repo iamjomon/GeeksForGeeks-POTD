@@ -1,6 +1,6 @@
 # GeeksforGeeks Problem of The day <img src="https://github.com/user-attachments/assets/edaf3029-8706-412e-8311-e2f2a0ebe763" width="40">
 
-This repository contains solutions to problems from ***[GeeksforGeeks](https://www.geeksforgeeks.org/)***. The files are named using the **question name** for easy identification and organization.
+This repository contains solutions to problems from ***[GeeksforGeeks]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header))***. The files are named using the **question name** for easy identification and organization.
 
 ## Key Features
 - **Solutions Only**: This repository focuses on providing direct solutions without explanations.
@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------| 
+| 09-02-2025 | Maximum path sum from any node                        | Java | [Solution](./february9.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) |
 | 08-02-2025 | Tree Boundary Traversal                               | Java | [Solution](./february8.java) | [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |
 | 07-02-2025 | Inorder Traversal                                     | Java | [Solution](./february7.java) | [Problem](https://www.geeksforgeeks.org/problems/inorder-traversal/1) |
 | 06-02-2025 | Construct Tree from Inorder & Preorder                | Java | [Solution](./february6.java) | [Problem](https://www.geeksforgeeks.org/problems/construct-tree-1/1) |

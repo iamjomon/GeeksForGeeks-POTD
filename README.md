@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------| 
+| 10-02-2025 | K Sum Paths                                           | Java | [Solution](./february10.java) | [Problem](https://www.geeksforgeeks.org/problems/k-sum-paths/1) |
 | 09-02-2025 | Maximum path sum from any node                        | Java | [Solution](./february9.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) |
 | 08-02-2025 | Tree Boundary Traversal                               | Java | [Solution](./february8.java) | [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |
 | 07-02-2025 | Inorder Traversal                                     | Java | [Solution](./february7.java) | [Problem](https://www.geeksforgeeks.org/problems/inorder-traversal/1) |

@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------| 
+| 12-02-2025 | k-th Smallest in BST                                  | Java | [Solution](./february12.java) | [Problem](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) |
 | 11-02-2025 | Check for BST                                         | Java | [Solution](./february11.java) | [Problem](https://www.geeksforgeeks.org/problems/check-for-bst/1) |
 | 10-02-2025 | K Sum Paths                                           | Java | [Solution](./february10.java) | [Problem](https://www.geeksforgeeks.org/problems/k-sum-paths/1) |
 | 09-02-2025 | Maximum path sum from any node                        | Java | [Solution](./february9.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) |

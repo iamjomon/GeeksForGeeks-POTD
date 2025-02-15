@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------| 
+| 15-02-2025 | Lowest Common Ancestor in a BST                       | Java | [Solution](./february15.java) | [Problem](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) |
 | 14-02-2025 | Fixing Two nodes of a BST                             | Java | [Solution](./february14.java) | [Problem](https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1) |
 | 13-02-2025 | Pair Sum in BST                                       | Java | [Solution](./february13.java) | [Problem](https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1) |
 | 12-02-2025 | k-th Smallest in BST                                  | Java | [Solution](./february12.java) | [Problem](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) |

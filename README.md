@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------| 
+| 17-02-2025 | k largest elements                                    | Java | [Solution](./february17.java) | [Problem](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) |
 | 16-02-2025 | Serialize and deserialize a binary tree               | Java | [Solution](./february16.java) | [Problem](https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) |
 | 15-02-2025 | Lowest Common Ancestor in a BST                       | Java | [Solution](./february15.java) | [Problem](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) |
 | 14-02-2025 | Fixing Two nodes of a BST                             | Java | [Solution](./february14.java) | [Problem](https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1) |

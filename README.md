@@ -15,7 +15,8 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 ## Daily Progress Log - GeeksforGeeks
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
-|------------|---------------|----------|---------------------------------------|---------------------------------------| 
+|------------|---------------|----------|---------------------------------------|---------------------------------------|
+| 20-02-2025 | Find median in a stream                               | Java | [Solution](./february20.java) | [Problem](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1) |
 | 19-02-2025 | Merge K sorted linked lists                           | Java | [Solution](./february19.java) | [Problem](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1) |
 | 18-02-2025 | K Closest Points to Origin                            | Java | [Solution](./february18.java) | [Problem](https://www.geeksforgeeks.org/problems/k-closest-points-to-origin--172242/1) |
 | 17-02-2025 | k largest elements                                    | Java | [Solution](./february17.java) | [Problem](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) |

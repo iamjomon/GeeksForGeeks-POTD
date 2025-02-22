@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------|
+| 22-02-2025 | Longest valid Parentheses                             | Java | [Solution](./february22.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1) |
 | 21-02-2025 | Parenthesis Checker                                   | Java | [Solution](./february21.java) | [Problem](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) |
 | 20-02-2025 | Find median in a stream                               | Java | [Solution](./february20.java) | [Problem](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1) |
 | 19-02-2025 | Merge K sorted linked lists                           | Java | [Solution](./february19.java) | [Problem](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1) |

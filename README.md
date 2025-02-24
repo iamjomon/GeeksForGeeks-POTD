@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------|
+| 24-02-2025 | Stock span problem                                    | Java | [Solution](./february24.java) | [Problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) |
 | 23-02-2025 | Next Greater Element                                  | Java | [Solution](./february23.java) | [Problem](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) |
 | 22-02-2025 | Longest valid Parentheses                             | Java | [Solution](./february22.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1) |
 | 21-02-2025 | Parenthesis Checker                                   | Java | [Solution](./february21.java) | [Problem](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) |

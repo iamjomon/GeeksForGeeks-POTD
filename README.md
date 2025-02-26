@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------|
+| 26-02-2025 | Maximum of minimum for every window size              | Java | [Solution](./february26.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) |
 | 25-02-2025 | Histogram Max Rectangular Area                        | Java | [Solution](./february25.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)|
 | 24-02-2025 | Stock span problem                                    | Java | [Solution](./february24.java) | [Problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) |
 | 23-02-2025 | Next Greater Element                                  | Java | [Solution](./february23.java) | [Problem](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) |

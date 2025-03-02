@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------|
+| 02-03-2025 | K Sized Subarray Maximum                              | Java | [Solution](./march2.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) |
 | 01-03-2025 | Decode the string                                     | Java | [Solution](./march1.java) | [Problem](https://www.geeksforgeeks.org/problems/decode-the-string2444/1) |
 | 28-02-2025 | Evaluation of Postfix Expression                      | Java | [Solution](./february28.java) | [Problem](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1) |
 | 27-02-2025 | Get Min from Stack                                    | Java | [Solution](./february27.java) | [Problem](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) |

@@ -4,7 +4,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 ## Key Features
 - **Solutions Only**: This repository focuses on providing direct solutions without explanations.
-- **File Naming**: Files are named using the **Month & Date of the POTD**, e.g., `january22.java` for the "january 22nd" problem. And the **Topic** is mentioned in the **commit message**.
+- **File Naming**: Files are named using the **Month & Date of the POTD**, e.g., `january13.java` for the "january 13th" problem of the day. And the **Topic** is mentioned in the **commit message**.
 - **Multiple Languages**: Solutions are primarily in **Java**, with potential use of other languages.
 
 
@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------|
+| 03-03-2025 | Longest Bounded-Difference Subarray                   | Java | [Solution](./march3.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) |
 | 02-03-2025 | K Sized Subarray Maximum                              | Java | [Solution](./march2.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) |
 | 01-03-2025 | Decode the string                                     | Java | [Solution](./march1.java) | [Problem](https://www.geeksforgeeks.org/problems/decode-the-string2444/1) |
 | 28-02-2025 | Evaluation of Postfix Expression                      | Java | [Solution](./february28.java) | [Problem](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1) |

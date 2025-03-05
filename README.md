@@ -16,6 +16,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks]([https://
 
 | Date       | Problem Name  | Language | Solution Link                         | Problem Link                          |
 |------------|---------------|----------|---------------------------------------|---------------------------------------|
+| 05-03-2025 | Longest String Chain                                  | Java | [Solution](./march5.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-string-chain/1) |
 | 04-03-2025 | Longest Increasing Subsequence                        | Java | [Solution](./march4.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) |
 | 03-03-2025 | Longest Bounded-Difference Subarray                   | Java | [Solution](./march3.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) |
 | 02-03-2025 | K Sized Subarray Maximum                              | Java | [Solution](./march2.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) |
